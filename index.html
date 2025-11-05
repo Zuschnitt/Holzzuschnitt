@@ -2,30 +2,64 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Holzzuschnitt Rechner</title>
+  <title>Zuschnitt-Beleg</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
     }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
     table {
       width: 100%;
       border-collapse: collapse;
-      margin-top: 10px;
+      margin-bottom: 20px;
     }
+
+    th {
+      background-color: #f0f0f0;
+    }
+
     th, td {
       border: 1px solid #ccc;
       padding: 8px;
       text-align: center;
     }
+
     input {
       width: 100%;
       box-sizing: border-box;
     }
+
+    #gesamt {
+      font-weight: bold;
+      font-size: 1.2em;
+      text-align: right;
+      margin-top: 10px;
+    }
+
+    #druck-button {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 20px;
+      font-size: 1em;
+      cursor: pointer;
+    }
+
+    @media print {
+      #druck-button {
+        display: none;
+      }
+    }
   </style>
 </head>
 <body>
-  <h1>Holzzuschnitt Rechner</h1>
+  <h1>Zuschnitt-Beleg</h1>
+
   <table>
     <thead>
       <tr>
@@ -41,7 +75,6 @@
       </tr>
     </thead>
     <tbody id="table-body">
-      <!-- 6 leere Zeilen -->
       <script>
         for (let i = 0; i < 6; i++) {
           document.write(`
@@ -61,6 +94,9 @@
       </script>
     </tbody>
   </table>
+
+  <div id="gesamt">Gesamtsumme: 0.00 €</div>
+  <button id="druck-button" onclick="window.print()">Drucken</button>
 
   <script>
     let artikelData = {};
@@ -105,7 +141,19 @@
 
       row.cells[6].querySelector('input').value = qm.toFixed(2);
       row.cells[8].querySelector('input').value = gesamt.toFixed(2);
+
+      updateGesamtsumme();
+    }
+
+    function updateGesamtsumme() {
+      let summe = 0;
+      const rows = document.querySelectorAll("#table-body tr");
+      rows.forEach(row => {
+        const gesamt = parseFloat(row.cells[8].querySelector('input').value) || 0;
+        summe += gesamt;
+      });
+      document.getElementById("gesamt").textContent = "Gesamtsumme: " + summe.toFixed(2) + " €";
     }
   </script>
 </body>
-
+</html>
