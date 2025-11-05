@@ -9,15 +9,26 @@
       margin: 20px;
     }
 
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
     h1 {
-      text-align: center;
-      margin-bottom: 20px;
+      margin: 0;
+      font-size: 1.8em;
+    }
+
+    img {
+      height: auto;
+      width: 150px;
     }
 
     table {
       width: 100%;
       border-collapse: collapse;
-      margin-bottom: 20px;
+      margin-top: 20px;
     }
 
     th {
@@ -28,6 +39,10 @@
       border: 1px solid #ccc;
       padding: 8px;
       text-align: center;
+    }
+
+    td:nth-child(1), td:nth-child(7) {
+      background-color: #fffbe6; /* dezentes Gelb */
     }
 
     input {
@@ -58,7 +73,10 @@
   </style>
 </head>
 <body>
-  <h1>Zuschnitt-Beleg</h1>
+  <header>
+    <h1>Zuschnitt-Beleg</h1>
+    toom-logo.jpg
+  </header>
 
   <table>
     <thead>
@@ -101,8 +119,7 @@
   <script>
     let artikelData = {};
 
-    // Lade die JSON-Datei
-    fetch('artikel_liste.json')
+    fetch('artikel.json')
       .then(response => response.json())
       .then(data => {
         artikelData = data;
@@ -156,4 +173,3 @@
     }
   </script>
 </body>
-</html>
