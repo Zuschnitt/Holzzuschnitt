@@ -63,14 +63,17 @@
   </table>
 
   <script>
-    const artikelData = {
-      "7100698": {
-        bezeichnung: "Spanplatte roh",
-        preis: 12.49,
-        staerke: "8mm"
-      }
-      // Weitere Artikelnummern kannst du hier ergänzen
-    };
+    let artikelData = {};
+
+    // Lade die JSON-Datei
+    fetch('artikel.json')
+      .then(response => response.json())
+      .then(data => {
+        artikelData = data;
+      })
+      .catch(error => {
+        console.error("Fehler beim Laden der artikel.json:", error);
+      });
 
     function loadData(input) {
       const row = input.parentElement.parentElement;
@@ -105,4 +108,3 @@
     }
   </script>
 </body>
-</html>
