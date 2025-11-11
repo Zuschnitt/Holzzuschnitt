@@ -1,0 +1,382 @@
+{
+  "7100551": {
+    "bezeichnung": "Lochplatte Weiß",
+    "preis": 22.49,
+    "staerke": "3"
+  },
+  "7100556": {
+    "bezeichnung": "Sperrholz Kiefer",
+    "preis": 19.99,
+    "staerke": "4"
+  },
+  "7100557": {
+    "bezeichnung": "Sperrholz Kiefer",
+    "preis": 29.99,
+    "staerke": "8"
+  },
+  "7100558": {
+    "bezeichnung": "Sperrholz Pappel",
+    "preis": 21.99,
+    "staerke": "4"
+  },
+  "7100559": {
+    "bezeichnung": "Sperholz Pappel",
+    "preis": 24.99,
+    "staerke": "6"
+  },
+  "7100560": {
+    "bezeichnung": "Sperrholz Pappel",
+    "preis": 29.99,
+    "staerke": "8"
+  },
+  "7100561": {
+    "bezeichnung": "Sperrholz Pappel",
+    "preis": 36.99,
+    "staerke": "10"
+  },
+  "7100562": {
+    "bezeichnung": "Sperrholz Pappel",
+    "preis": 39.99,
+    "staerke": "12"
+  },
+  "7100569": {
+    "bezeichnung": "Tischlerplatte Birke",
+    "preis": 39.99,
+    "staerke": "16"
+  },
+  "7100570": {
+    "bezeichnung": "Tischlerplatte Birke",
+    "preis": 46.99,
+    "staerke": "18"
+  },
+  "7100571": {
+    "bezeichnung": "Tischlerplatte Birke",
+    "preis": 56.99,
+    "staerke": "22"
+  },
+  "7100572": {
+    "bezeichnung": "Leimholz Fichte",
+    "preis": 59.99,
+    "staerke": "18"
+  },
+  "7100573": {
+    "bezeichnung": "Leimholz Fichte",
+    "preis": 64.99,
+    "staerke": "27"
+  },
+  "7100574": {
+    "bezeichnung": "3 - Schichtplatte Fichte",
+    "preis": 54.99,
+    "staerke": "19"
+  },
+  "7100577": {
+    "bezeichnung": "OSB Platte",
+    "preis": 6.29,
+    "staerke": "9"
+  },
+  "7100578": {
+    "bezeichnung": "OSB Platte",
+    "preis": 8.29,
+    "staerke": "12"
+  },
+  "7100579": {
+    "bezeichnung": "OSB Platte",
+    "preis": 10.29,
+    "staerke": "15"
+  },
+  "7100580": {
+    "bezeichnung": "OSB Platte",
+    "preis": 12.29,
+    "staerke": "18"
+  },
+  "7100585": {
+    "bezeichnung": "Leimholz Eiche",
+    "preis": 99.99,
+    "staerke": "18"
+  },
+  "7100586": {
+    "bezeichnung": "Leimholz Buche",
+    "preis": 74.99,
+    "staerke": "18"
+  },
+  "7100589": {
+    "bezeichnung": "Tischlerplatte Birke",
+    "preis": 34.99,
+    "staerke": "13"
+  },
+  "7100630": {
+    "bezeichnung": "Spanplatte Nussbaum",
+    "preis": 24.99,
+    "staerke": "19"
+  },
+  "7100633": {
+    "bezeichnung": "Spanplatte Nussbaum",
+    "preis": 23.99,
+    "staerke": "16"
+  },
+  "7100688": {
+    "bezeichnung": "Spanplatte Ahorn",
+    "preis": 23.99,
+    "staerke": "16"
+  },
+  "7100689": {
+    "bezeichnung": "Spabplatte Ahorn",
+    "preis": 24.99,
+    "staerke": "19"
+  },
+  "7100690": {
+    "bezeichnung": "Spanplatte Buche",
+    "preis": 23.99,
+    "staerke": "16"
+  },
+  "7100691": {
+    "bezeichnung": "Spanplatte Buche",
+    "preis": 24.99,
+    "staerke": "19"
+  },
+  "7100692": {
+    "bezeichnung": "Spanplatte Weißbuche",
+    "preis": 23.99,
+    "staerke": "16"
+  },
+  "7100693": {
+    "bezeichnung": "Spanolatte Weißbuche",
+    "preis": 24.99,
+    "staerke": "19"
+  },
+  "7100694": {
+    "bezeichnung": "Spanplatte Kirschbaum",
+    "preis": 23.99,
+    "staerke": "16"
+  },
+  "7100695": {
+    "bezeichnung": "Spanplatte Kirschbaum",
+    "preis": 24.99,
+    "staerke": "19"
+  },
+  "7100696": {
+    "bezeichnung": "Spanplatte Eiche Hell",
+    "preis": 23.99,
+    "staerke": "16"
+  },
+  "7100697": {
+    "bezeichnung": "Spanplatte Eiche Hell",
+    "preis": 24.99,
+    "staerke": "19"
+  },
+  "7100698": {
+    "bezeichnung": "Spanplatte Roh",
+    "preis": 12.49,
+    "staerke": "8"
+  },
+  "7100699": {
+    "bezeichnung": "Spanplatte Roh",
+    "preis": 13.99,
+    "staerke": "10"
+  },
+  "7100700": {
+    "bezeichnung": "Spanplatte Roh",
+    "preis": 15.99,
+    "staerke": "12"
+  },
+  "7100701": {
+    "bezeichnung": "Spanplatte Roh",
+    "preis": 16.99,
+    "staerke": "16"
+  },
+  "7100702": {
+    "bezeichnung": "Spanplatte Roh",
+    "preis": 17.99,
+    "staerke": "19"
+  },
+  "7100703": {
+    "bezeichnung": "Spanplatte Roh",
+    "preis": 18.99,
+    "staerke": "22"
+  },
+  "7100704": {
+    "bezeichnung": "Spanplatte Weiß",
+    "preis": 15.99,
+    "staerke": "8"
+  },
+  "7100705": {
+    "bezeichnung": "Spanplatte Weiß",
+    "preis": 16.49,
+    "staerke": "10"
+  },
+  "7100706": {
+    "bezeichnung": "Spanplatte Weiß",
+    "preis": 16.99,
+    "staerke": "12"
+  },
+  "7100707": {
+    "bezeichnung": "Spanplatte Weiß",
+    "preis": 17.99,
+    "staerke": "16"
+  },
+  "7100708": {
+    "bezeichnung": "Spanplatte Weiß",
+    "preis": 18.99,
+    "staerke": "19"
+  },
+  "7100709": {
+    "bezeichnung": "Spanplatte Weiß",
+    "preis": 20.99,
+    "staerke": "22"
+  },
+  "7100710": {
+    "bezeichnung": "Spanplatte Lichtgrau",
+    "preis": 25.99,
+    "staerke": "16"
+  },
+  "7100711": {
+    "bezeichnung": "Spanplatte Lichtgrau",
+    "preis": 27.99,
+    "staerke": "19"
+  },
+  "7100712": {
+    "bezeichnung": "Spanplatte Vanille",
+    "preis": 31.99,
+    "staerke": "19"
+  },
+  "7100713": {
+    "bezeichnung": "Spanpöatte Rot",
+    "preis": 34.49,
+    "staerke": "19"
+  },
+  "7100714": {
+    "bezeichnung": "Spanplatte Schwarz Perl",
+    "preis": 30.99,
+    "staerke": "16"
+  },
+  "7100715": {
+    "bezeichnung": "Spanplatte Schwarz Perl",
+    "preis": 31.49,
+    "staerke": "19"
+  },
+  "7100716": {
+    "bezeichnung": "MDF - Platte Roh",
+    "preis": 4.99,
+    "staerke": "3"
+  },
+  "7100717": {
+    "bezeichnung": "MDF - Platte Roh",
+    "preis": 7.79,
+    "staerke": "5"
+  },
+  "7100718": {
+    "bezeichnung": "MDF - Platte Roh",
+    "preis": 18.99,
+    "staerke": "12"
+  },
+  "7100719": {
+    "bezeichnung": "MDF - Platte Roh",
+    "preis": 21.99,
+    "staerke": "16"
+  },
+  "7100720": {
+    "bezeichnung": "MDF - Platte Roh",
+    "preis": 23.99,
+    "staerke": "18"
+  },
+  "7100721": {
+    "bezeichnung": "MDF - Platte Roh",
+    "preis": 26.99,
+    "staerke": "22"
+  },
+  "7100722": {
+    "bezeichnung": "MDF - Ahorn",
+    "preis": 9.99,
+    "staerke": "3"
+  },
+  "7100723": {
+    "bezeichnung": "MDF - Buche",
+    "preis": 9.99,
+    "staerke": "3"
+  },
+  "7100724": {
+    "bezeichnung": "MDF - Eiche Hell",
+    "preis": 9.99,
+    "staerke": "3"
+  },
+  "7100725": {
+    "bezeichnung": "MDF - Weiß",
+    "preis": 8.99,
+    "staerke": "3"
+  },
+  "7100726": {
+    "bezeichnung": "MDF - Weiß",
+    "preis": 12.99,
+    "staerke": "5"
+  },
+  "7100727": {
+    "bezeichnung": "MDF - Schwarz",
+    "preis": 9.99,
+    "staerke": "3"
+  },
+  "7100794": {
+    "bezeichnung": "Kompaktplatte Weiß",
+    "preis": 49.99,
+    "staerke": "6"
+  },
+  "7100795": {
+    "bezeichnung": "Kompaktplatte Anthrazit",
+    "preis": 49.99,
+    "staerke": "6"
+  },
+  "7100796": {
+    "bezeichnung": "Kompaktplatte Dunkelbraun",
+    "preis": 49.99,
+    "staerke": "6"
+  },
+  "7100834": {
+    "bezeichnung": "Siebdruck Eucalyptus",
+    "preis": 37.99,
+    "staerke": "9"
+  },
+  "7100836": {
+    "bezeichnung": "Siebdruck Eucalyptus",
+    "preis": 54.99,
+    "staerke": "15"
+  },
+  "7100838": {
+    "bezeichnung": "Siebdruck Eucalyptus",
+    "preis": 64.99,
+    "staerke": "21"
+  },
+  "7100839": {
+    "bezeichnung": "Multiplexplatte Eucalyptus Weiß",
+    "preis": 79.99,
+    "staerke": "18"
+  },
+  "7100840": {
+    "bezeichnung": "Multiplexplatte Eucalyptus",
+    "preis": 29.99,
+    "staerke": "6,5"
+  },
+  "7100841": {
+    "bezeichnung": "Multiplexplatte Eucalyptus",
+    "preis": 37.99,
+    "staerke": "9"
+  },
+  "7100842": {
+    "bezeichnung": "Multiplexplatte Eucalyptus",
+    "preis": 44.99,
+    "staerke": "12"
+  },
+  "7100843": {
+    "bezeichnung": "Multiplexplatte Eucalyptus",
+    "preis": 49.99,
+    "staerke": "15"
+  },
+  "7100844": {
+    "bezeichnung": "Multiplexplatte Eucalyptus",
+    "preis": 62.99,
+    "staerke": "18"
+  },
+  "7100847": {
+    "bezeichnung": "Film Eucalyptus",
+    "preis": 59.99,
+    "staerke": "18"
+  }
+}
