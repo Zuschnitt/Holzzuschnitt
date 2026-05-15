@@ -39,6 +39,21 @@
     "preis": 39.99,
     "staerke": "12"
   },
+  "7100613": {
+    "bezeichnung": "Sperrholz Buche",
+    "preis": 21.99,
+    "staerke": "4"
+  },
+    "7100614": {
+    "bezeichnung": "Sperrholz Buche",
+    "preis": 32.49,
+    "staerke": "6"
+  },
+    "7100615": {
+    "bezeichnung": "Sperrholz Buche",
+    "preis": 39.99,
+    "staerke": "8"
+  },
   "7100569": {
     "bezeichnung": "Tischlerplatte Birke",
     "preis": 39.99,
@@ -348,6 +363,11 @@
     "bezeichnung": "Multiplexplatte Eucalyptus Weiß",
     "preis": 79.99,
     "staerke": "18"
+  },
+  "7100613": {
+    "bezeichnung": "Multiplexplatte Eucalyptus Weiß",
+    "preis": 64.99,
+    "staerke": "12"
   },
   "7100840": {
     "bezeichnung": "Multiplexplatte Eucalyptus",
