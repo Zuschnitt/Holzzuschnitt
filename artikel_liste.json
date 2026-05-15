@@ -369,6 +369,11 @@
     "preis": 64.99,
     "staerke": "12"
   },
+  "7100831": {
+    "bezeichnung": "Multiplexplatte Eucalyptus",
+    "preis": 27.99,
+    "staerke": "4"
+  },
   "7100840": {
     "bezeichnung": "Multiplexplatte Eucalyptus",
     "preis": 29.99,
@@ -393,6 +398,31 @@
     "bezeichnung": "Multiplexplatte Eucalyptus",
     "preis": 62.99,
     "staerke": "18"
+   },
+  "7100832": {
+    "bezeichnung": "Multiplexplatte Eucalyptus",
+    "preis": 74,99,
+    "staerke": "21"
+   },
+  "7100832": {
+    "bezeichnung": "Multiplexplatte Eucalyptus",
+    "preis": 84,99,
+    "staerke": "24"
+   },
+  "7100728": {
+    "bezeichnung": "Spanplatte Anthrazit",
+    "preis": 29,99,
+    "staerke": "19"
+   },
+  "7100729": {
+    "bezeichnung": "Spanplatte Sonoma Eiche",
+    "preis": 27,99,
+    "staerke": "19"
+   },
+  "7100732": {
+    "bezeichnung": "MDF Schwarz",
+    "preis": 41,99,
+    "staerke": "19"
   },
   "7100847": {
     "bezeichnung": "Film Eucalyptus",
