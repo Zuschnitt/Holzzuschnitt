@@ -9,10 +9,30 @@
     "preis": 19.99,
     "staerke": "4"
   },
+  "7100638": {
+    "bezeichnung": "Sperrholz Kiefer",
+    "preis": 21.99,
+    "staerke": "6"
+  },
   "7100557": {
     "bezeichnung": "Sperrholz Kiefer",
     "preis": 29.99,
     "staerke": "8"
+  },
+  "7100635": {
+    "bezeichnung": "Sperrholz Kiefer",
+    "preis": 29.99,
+    "staerke": "10"
+   },
+  "7100636": {
+    "bezeichnung": "Sperrholz Kiefer",
+    "preis": 31.99,
+    "staerke": "12"
+  },
+  "7100637": {
+    "bezeichnung": "Sperrholz Kiefer",
+    "preis": 35.99,
+    "staerke": "15"
   },
   "7100558": {
     "bezeichnung": "Sperrholz Pappel",
